@@ -1,12 +1,15 @@
 # 🕊️ Dove Stencil
 
-<!-- ![](photos/2022-02-13_dove_1.jpg) -->
-![](photos/2022-02-20_dove_2.jpg)
-<!-- ![](photos/2022-02-20_dove_3.jpg) -->
-![](photos/2022-02-07_stencil_fabric_1.jpg)
-<!-- ![](photos/2022-02-07_stencil_fabric_2.jpg) -->
+<img src="photos/2023-09-25_dove.jpg" width=400 /><img src="photos/2023-09-25_raven.jpg" width=400 />
+<img src="photos/2022-02-07_stencil_fabric_1.jpg" width=800 />
 
 More photos are in the [photos](photos/) directory.
+
+
+### Video Tutorial
+
+[![youtube](https://img.youtube.com/vi/37MKHhXdRaY/0.jpg)](https://www.youtube.com/watch?v=37MKHhXdRaY)
+
 
 ### Notes
 
